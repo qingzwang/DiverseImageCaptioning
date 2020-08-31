@@ -15,6 +15,7 @@ Please refer to README-DISC.md to train the Att2in model. Note that you can just
 XE denotes cross-entropy loss, CIDEr denotes CIDEr reward, DISC denotes retrieval rewards proposed in [**DISCCap**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Discriminability_Objective_for_CVPR_2018_paper.pdf), DIV denotes [**Self-CIDEr**](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.html) and DPP denotes determinantal point process rewards, which combines the quality (CIDEr) and diversity (self-CIDEr) into one matrix and the determinant of the matrix reflects both diversity and quality.
 ### Training using XE+CIDEr+DISC
 ```
+x=1
 bash 
 ```
 ### Training using CIDEr+DIV
