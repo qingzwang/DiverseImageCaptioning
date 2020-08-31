@@ -8,5 +8,10 @@ Pytorch 0.4
 
 java 1.8
 
-## Data preparation
-Please refer to README-DISC.md.
+## Data preparation and pre-training
+Please refer to README-DISC.md to train the Att2in model. Note that you can just train the model using cross-entropy for 30 epochs.
+
+## Training using diversity reward
+
+## Ackonwledgement
+This repository is based on DISCCap
