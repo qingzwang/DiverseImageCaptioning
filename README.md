@@ -14,4 +14,4 @@ Please refer to README-DISC.md to train the Att2in model. Note that you can just
 ## Training using diversity reward
 
 ## Ackonwledgement
-This repository is based on DISCCap
+This repository is based on [**DISCCap**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Discriminability_Objective_for_CVPR_2018_paper.pdf) and we would like to thank the author [**Ruotian Luo**](https://ttic.uchicago.edu/~rluo/).
